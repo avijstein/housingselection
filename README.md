@@ -1,5 +1,5 @@
 # housingselection
-Housing Selection for Wesleyan University ResLife
+### Housing Selection Application for Wesleyan University ResLife
 
 Wesleyan University owns over 150 houses for students to live in their senior year, but the information on them is scattered over hundreds of webpages and inconsistent. This project pulled data from each of these webpages, cleaned and organized them into a large dataset. 
 
