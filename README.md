@@ -9,7 +9,7 @@ After going through the struggle myself, I created a Shiny app to help Wesleyan 
 
 Below is a screenshot of the site (which can only be accessed on the Wesleyan network).
 
-![Housing Image](housingselection/housing_image.jpg)
+![Housing Image](housing_image.jpg)
 
 
 Special thanks to Professor Valerie Nazzaro and Professor Robert Kabacoff of Wesleyan's Quantitative Analysis Center for help on this project.
