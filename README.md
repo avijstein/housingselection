@@ -7,4 +7,9 @@ This dataset included both listed information, as well as hidden information on 
 
 After going through the struggle myself, I created a Shiny app to help Wesleyan students more easily navigate their senior housing options, refining their searches quickly in a matter of minutes, rather than hours of gathering data from scattered webpages. A majority of rising seniors ended up using this tool and found it helpful in their search, according to feedback collected by Wesleyan's ResLife. It was also featured in the Wesleyan student newspaper, the [Argus](http://wesleyanargus.com/2017/04/10/new-website-eases-housing-selection-frustrations/).
 
+Below is a screenshot of the site (which can only be accessed on the Wesleyan network).
+
+![Housing Image](housingselection/housing_image.jpg)
+
+
 Special thanks to Professor Valerie Nazzaro and Professor Robert Kabacoff of Wesleyan's Quantitative Analysis Center for help on this project.
